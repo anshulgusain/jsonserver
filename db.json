@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Anshul Gusain",
+      "email": "anshul99@gmail.com",
+      "password": "ninjah2",
+      "id": 1
+    }
+  ],
+  "budget": [
+    {
+      "inorexpen": "expense",
+      "income": "Food&Drinks",
+      "expense": "salary",
+      "amount": "120",
+      "date": "2023-02-02",
+      "id": 1
+    },
+    {
+      "inorexpen": "income",
+      "income": "Housing",
+      "expense": "gifts",
+      "amount": "123",
+      "date": "2023-02-05",
+      "id": 2
+    },
+    {
+      "inorexpen": "expense",
+      "income": "Housing",
+      "expense": "salary",
+      "amount": "123",
+      "date": "0023-09-09",
+      "id": 3
+    }
+  ]
+}
